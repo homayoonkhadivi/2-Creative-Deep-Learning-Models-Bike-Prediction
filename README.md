@@ -1,7 +1,6 @@
 # 2-Creative-Deep-Learning-Models-Bike-Prediction
 I am supper excited to share with you guys the results of new insights for the data preparation and building two models such as: Regression using SKLearn's Neural Network (NN) Train unisng Keras API with Tensorflow as Backend
 
-# Problem
 
 # Kaggle Bike Sharing Demand Dataset
 
@@ -22,7 +21,6 @@ Input Features: ['season', 'holiday', 'workingday', 'weather', 'temp', 'atemp', 
 # Objective:
 We are provided hourly rental data spanning two years. For this competition, the training set is comprised of the first 19 days of each month, while the test set is the 20th to the end of the month. You must predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period (Ref: Kaggle.com)
 
-# Innovative Solutions
 
 ### In this Notebook, we will go through some steps and different insights such as:
 # Contains
@@ -64,7 +62,6 @@ We are provided hourly rental data spanning two years. For this competition, the
 
 **Submission**
 
-# Summary & Results
 
 The Accuracy of our model could be shown as below:
 
