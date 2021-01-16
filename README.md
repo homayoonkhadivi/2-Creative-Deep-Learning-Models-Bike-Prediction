@@ -64,8 +64,26 @@ The Accuracy of our model could be shown as below:
 
 ![accuracy](https://user-images.githubusercontent.com/57557590/104820956-aa6e1800-584d-11eb-9991-eb8fffff62a3.PNG)
 
+# Second Part
+# NEW Insight
+# Regression using TensorFlow
 
+Build the Neural Network using Keras - Easy and Portable across different implementations https://keras.io/
 
+# Objective:
+
+**Train a bike rental prediction model**
+
+**NN requires one hot encoding of categorical data**
+
+**NN also requires features to be on similar scale**
+
+**Perform one-hot encoding of all categorical features: ['season', 'holiday', 'workingday', 'weather', 'year', 'month', 'day', 'dayofweek', 'hour']
+Verify model performance**
+
+The accuracy of second model could be shown as below:
+
+![accuracy](https://user-images.githubusercontent.com/57557590/104821031-3a13c680-584e-11eb-8811-c255b379a050.PNG)
 
 for more information, check out my notebook on my Kaggle Profile here:
 
